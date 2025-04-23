@@ -45,6 +45,12 @@ In this game:
 - **Move Timing**: After each AI move, the program shows how much time it took for each algorithm to calculate the move.
 - **User Interaction**: You make your move interactively by entering the row and column of your desired position on the board.
 
+## Demo
+
+You can download and view the demo video here:
+
+[Download Demo Video](./demo/your_video_file.mp4)
+
 ## How to Run the Game
 
 1. Clone or download the repository.
