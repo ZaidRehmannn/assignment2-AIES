@@ -50,5 +50,5 @@ In this game:
 1. Clone or download the repository.
 2. Make sure Python 3.x is installed on your machine.
 3. Open a terminal/command prompt and navigate to the directory where the script is located.
-4. Run the script using the following command: python tictactoe.py
+4. Run the script using the following command: python tic_tac_toe.py
 5. Follow the on-screen instructions to play the game.
