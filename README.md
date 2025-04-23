@@ -49,7 +49,7 @@ In this game:
 
 You can download and view the demo video here:
 
-[Download Demo Video](./demo/your_video_file.mp4)
+[Download Demo Video](./demo/gameDemo.mp4)
 
 ## How to Run the Game
 
